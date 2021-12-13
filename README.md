@@ -1,4 +1,4 @@
-# Nanling_5ssp
+# Nanling_5spp
 1, JC69 N-distance calculation.py
 
 2, CBRC record dilution.R
